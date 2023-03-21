@@ -9,29 +9,10 @@
  - Hello date - Afficher la date du jours  
  - Hello date II - Afficher les seconds qui passent
  - Run if you epyleptique - Bouton "BOOM" Qui doit nous déclencher une crise d'épilepsie Bonus dubstep
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ - Random number - Bouton "Lancer" qui donne un numéro entre 1 et 6
 
 
  
- - Random number - Bouton "Lancer" qui donne un numéro entre 1 et 6
  - Shifumi I - Afficher un élément au hasard parmis 🗿 🧻 ✂️
  - Music Band - 
 
