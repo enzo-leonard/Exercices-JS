@@ -1,3 +1,3 @@
 const body = document.querySelector('body')
-body.innerHTML = "coucou"
+body.innerHTML += "coucou"
 console.log(body)
