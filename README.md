@@ -1,4 +1,9 @@
 ## Cours ECE : 
+
+
+### Suivre le cours en direct 
+https://prod.liveshare.vsengsaas.visualstudio.com/join?FF6E25ACF6D306BA4E4AC95048B5A52FC78B
+
 1h - Présentation des homepages.
 1h - Intégration carte avancé (avis utilisateur)
 1h - Utiliser AOS + Ancre
