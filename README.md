@@ -17,11 +17,15 @@ https://prod.liveshare.vsengsaas.visualstudio.com/join?FF6E25ACF6D306BA4E4AC9504
  
  - Random number - Bouton "Lancer" qui donne un numéro entre 1 et 6 
  - Shifumi I - Afficher un élément au hasard parmis 🗿 🧻 ✂️
- - Music Band 
  - Shifumi II - Faire système de point
+
+
+
+ - Music Band 
+ - Excès de caractère.
  - Pixel Art
  - To do list
-
+ - BlackJack
 
  - Page index 
  - Page catalogue
