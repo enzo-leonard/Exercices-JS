@@ -8,22 +8,16 @@ let i = 0
 
 
 const list = ['etage1', "etage2", 'etage3', 'etage4', 'etage5', "etage6"]
-
 const etage = {name: "etage", color: "red"}
-etage.dimension = 40
-
-console.log(etage)
-
-
-list.forEach((e) => {
-  
-    container.innerHTML += `<div class="${classBlock}" >${e}</div>`
+const pyramide = [
+    {name: "Facile", color: "green"},
+    {name: "Moyen", color: "purple"},
+    {name: "Difficile", color: "red"}
+]
+pyramide.forEach((obj, index) => {
+    console.log(index, obj.name)
+    container.innerHTML += `<div class="${classBlock} bg-${obj.color}-600"  >${obj.name}</div>`
 })
-
-
-
-console.log(list[list.length -1])
-
 
 
 
