@@ -3,9 +3,11 @@ import {burgerList} from './data.js'
 
 // Voici la liste des burgers (le fichier se trouve dans le dossier data.js)
 console.log('burgerList', burgerList)
+const container = document.querySelector('#burger-container')
 
-// Indice : Utiliser la méthode forEach pour parcourir la liste des burgers
-
+// Indice :
+// Utiliser la méthode forEach pour parcourir la liste des burgers  
+// Pour chaque burger, créer un élément HTML (div) et l'ajouter dans #burger-container avec la méthode innerHTML
 
 // Etape 1
 // Pour chacun des burgers affiche le nom dans la console
