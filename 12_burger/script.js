@@ -4,6 +4,8 @@ import {burgerList} from './data.js'
 // Voici la liste des burgers (le fichier se trouve dans le dossier data.js)
 console.log('burgerList', burgerList)
 
+// Indice : Utiliser la méthode forEach pour parcourir la liste des burgers
+
 
 // Etape 1
 // Pour chacun des burgers affiche le nom dans la console
