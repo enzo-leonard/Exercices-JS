@@ -8,10 +8,18 @@
     <script src="./script.js" defer="true" type="module"></script>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
-    <input id="new" placeholder="Nouvelle tache" class="w-[400px] border-2 p-2 bg-slate-100"/>
-    <div id="container-list">
+<body class="bg-slate-800">
+    <div class="bg-yellow-500 p-8 text-center">
+        TO DO LIST
+    </div>
+    <div class="max-w-[500px] mx-auto py-20">
+        <div class="flex gap-2 items-center">
+            <input id="new" placeholder="Nouvelle tache" class="grow bg-slate-700 h-12 border-none rounded border-2 px-2 bg-slate-100"/>
+            <div id="add" class="bg-slate-700 rounded px-3 py-1 ">Ajouter</div>
+        </div>
+        <div id="container-list">
 
+        </div>
     </div>
 </body>
 </html>
