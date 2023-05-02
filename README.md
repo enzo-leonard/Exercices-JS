@@ -42,6 +42,7 @@ https://prod.liveshare.vsengsaas.visualstudio.com/join?FF6E25ACF6D306BA4E4AC9504
 - Cours 2 
     - Utiliser Firebase
     - TO DO list avec firebase
+    - Ecouter plusieurs éléments 
     - Burger avec Firebase
 - Pitch
 

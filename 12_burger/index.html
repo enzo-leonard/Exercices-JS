@@ -7,6 +7,12 @@
     <title>GrillMaster</title>
     <script src="./script.js" defer="true" type="module"></script>
     <script src="https://cdn.tailwindcss.com"></script>
+    <!-- <script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-firestore-lite.js"></script> -->
+
+    <script type="module">
+        // Import the functions you need from the SDKs you need
+      
+      </script>
 </head>
 <body class="bg-slate-900 text-white">
     <div class="bg-blue-500 text-white h-80 flex items-center justify-center">
@@ -14,10 +20,15 @@
     </div>
     <div class="p-8 mx-auto" style="max-width: 800px;">
    
-        <h2 class="text-2xl">Découvrez nos meilleurs burgers</h2>
-        <div id="burger-container">
+        <h2 id="title" class="text-2xl">Découvrez nos meilleurs burgers</h2>
+        <div id="burger-content"></div>
+        <div id="burger-container" class="gap-4 grid sm:grid-cols-2 md:grid-cols-3  ">
             <!-- Ne rien ajouter ici. C'est dans le fichier script.js que vous devez ajouter les burgers-->
         </div>
+        <input id="name" placeholder="nom" class="bg-slate-700"/>
+        <input id="description" placeholder="description" class="bg-slate-700"/>
+        <input id="image" placeholder="image url" class="bg-slate-700"/>
+        <div id="addBtn">Ajouter</div>
     </div>  
 </body>
 </html>
